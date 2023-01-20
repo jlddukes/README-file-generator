@@ -49,8 +49,8 @@ const questions = [
         type: 'list',
         message: 'What is your user name?',
         name: 'username',
-        choices: ["A", "B", "C"],
-        default: "B"
+        choices: ["Boost", "IBM", "MIT"],
+        default: "IBM"
 
     },
        
