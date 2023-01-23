@@ -8,7 +8,7 @@ const questions = [
     {
      type: 'input',
      message: 'Github profile link?',
-     name: 'Link',
+     name: 'Git',
     },
     {
         type: 'input',
@@ -47,20 +47,17 @@ const questions = [
        },
        {
         type: 'list',
-        message: 'What is your user name?',
-        name: 'username',
+        message: 'Choose a license',
+        name: 'license',
         choices: ["Boost", "IBM", "MIT"],
-        default: "IBM"
-
+        default: "IBM",
     },
-       
-
 ];
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-    fs.writeFile(fileName, data, (err) => 
-    err ? console.log(err):console.log('File Generated!!')
+    fs.writeFile(`${fileName.toLowerCase().split('').join('')}.md`, data, (err) => 
+    err ? console.log(err):console.log('Your Personalized README file has been generated!!')
 )}
 
 // TODO: Create a function to initialize app
