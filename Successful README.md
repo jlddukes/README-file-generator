@@ -1,4 +1,4 @@
-# d
+# Project README
 
   ## Table of Contents
   * [Description](#description)
@@ -10,19 +10,19 @@
   * [Questions](#questions)
   
   ## Description
-  a
+  A user friendly README
   
   ## Installation
-  s
+  Inquirer
   
   ## Usage
-  d
+  Example
   
   ## Contributing
-  f
+  N/A
   
   ## Tests
-  g
+  N/A
   
   ## License
     Licensed under the Boost license.
@@ -31,5 +31,5 @@
   
   ## Questions
   If you have any questions, please feel free to reach out.
-  Email: cine 
-  GitHub: kristina
+  Email: example link 
+  GitHub: example link
