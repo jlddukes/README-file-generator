@@ -10,26 +10,26 @@
   * [Questions](#questions)
   
   ## Description
-  as
+  a
   
   ## Installation
-  d
+  s
   
   ## Usage
-  as
+  d
   
   ## Contributing
-  dfg
+  f
   
   ## Tests
-  h
+  g
   
   ## License
-    Licensed under the IBM license.
-  ![License](https://img.shields.io/badge/License-IPL_1.0-blue.svg)
+    Licensed under the Boost license.
+  ![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)
   [License](#license)
   
   ## Questions
   If you have any questions, please feel free to reach out.
-  Email: s 
-  GitHub: undefined
+  Email: cine 
+  GitHub: kristina

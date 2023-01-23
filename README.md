@@ -1,4 +1,5 @@
-# d
+# README File Generator
+
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
@@ -9,23 +10,27 @@
   * [Questions](#questions)
   
   ## Description
-  s
+The README generator is a series of prompts that collects the user data and transfers it to a brand new README.md complete with the appropriate layout of a typical README. 
   
   ## Installation
-  a
+  App Requirements:
+  1. Download Node Version 16 https://nodejs.org/en/blog/release/v16.16.0/
+
+  2. Downlaod Inquirer Package 8.2.4 on the integrated terminal
+  ```
+  npm install
+  ```
   
   ## Usage
-  s
+To use this application, ensure that the proper installation is readily available on your PC. 
+Type `node index.js` to initiate the prompt questions.
+Answer all nine questions and when the README is created, a successful README file has been generated message will appear. The new README file will be accessible on the left side bar under the title, "Successful README.md".
   
   ## Contributing
-  f
+  N/A
   
   ## Tests
-  s
-  
-  undefined
-  (https://www.boost.org/LICENSE_1_0.txt)
-  undefined
+  N/A
   
   ## Questions
-  If you have any questions, please feel free to reach out at b and undefined.
+  If you have any questions, please feel free to reach out to me at jlddukes@gmail.com.

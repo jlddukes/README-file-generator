@@ -8,7 +8,7 @@ const questions = [
     {
      type: 'input',
      message: 'Github profile link?',
-     name: 'Git',
+     name: 'git',
     },
     {
         type: 'input',
@@ -56,7 +56,7 @@ const questions = [
 
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {
-    fs.writeFile(`${fileName.toLowerCase().split('').join('')}.md`, data, (err) => 
+    fs.writeFile(`Successful ${fileName}`, data, (err) => 
     err ? console.log(err):console.log('Your Personalized README file has been generated!!')
 )}
 
